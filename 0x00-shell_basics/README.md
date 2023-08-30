@@ -4,3 +4,5 @@ Task 1
 ls : Display the contents list of your current directory.
 Task 2
 cd ~ : changes the working directory to the user’s home directory
+Task 3
+ls -l : Display current directory contents in a long format
