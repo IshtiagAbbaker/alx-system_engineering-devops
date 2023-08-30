@@ -24,3 +24,5 @@ Task 11
 ls -al / /alx-system_engineering-devops /boot : Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 Task12
 file tmp/iamafile: File type
+Task 13
+ln -s /bin/ls __ls__
