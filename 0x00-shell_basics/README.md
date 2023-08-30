@@ -6,3 +6,5 @@ Task 2
 cd ~ : changes the working directory to the user’s home directory
 Task 3
 ls -l : Display current directory contents in a long format
+Task 4
+ls -l -a : Display current directory contents, including hidden files
