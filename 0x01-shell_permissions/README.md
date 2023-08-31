@@ -53,3 +53,15 @@ Write a script that changes the group owner to school for the file hello
 
 The file hello will be in the working directory
 chgrp school hello
+14. Owner and group
+Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+chown vincent staff .
+15. Symbolic links
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+chown vincent staff _hello
+16. If only
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+chown --from=guillaume betty hello
+17. Star Wars
+Write a script that will play the StarWars IV episode in the terminal.Write a script that will play the StarWars IV episode in the terminal.
+telnet towel.blinkenlights.nl
