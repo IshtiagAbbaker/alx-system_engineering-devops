@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $MYVAR | wc -l
+set | wc -l
