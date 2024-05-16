@@ -3,10 +3,10 @@ server {
     listen [::]:80 default_server;
 
     # IP of server
-    server_name 54.208.68.58
+    server_name 54.208.68.58;
 
     # customize HTTP
-    add_header x-server-By 530040-web-01
+    add_header x-server-By 530040-web-01;
 
 
     # route
